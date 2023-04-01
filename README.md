@@ -6,13 +6,8 @@ Data: The Wealth of Nations
 
 ## Chart made with Tableau
 
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/129383432/229284958-c267814b-12fb-44cd-9e43-c84624ab891a.png">
 
-
-
-Source
-https://justit831.sharepoint.com/:x:/s/DataAnalyticsP rogramme- NewStandards/EVK1dsCfWvZMpvJzG9QaQk8B1nxx7hYR0KtGfbzJauf94g?e=CR1LFE
-
-[Downloaded Link](https://justit831.sharepoint.com/:x:/s/DataAnalyticsP rogramme- NewStandards/EVK1dsCfWvZMpvJzG9QaQk8B1nxx7hYR0KtGfbzJauf94g?e=CR1LFE)
 
 
 ### Utilised method:
@@ -21,7 +16,7 @@ https://justit831.sharepoint.com/:x:/s/DataAnalyticsP rogramme- NewStandards/EVK
 
 -Development of Data set using Excel
 
--Created a visual report that show the data in the form of charts and maps
+-Created a visual report that show the data in the form of charts
 
 ### Cleaned Data using **Excel**
 
