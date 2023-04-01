@@ -20,11 +20,11 @@ Data: Investigation of the nature and origins of national wealth
 
 ### Cleaned Data using **Excel**
 
--Turn the GDP sheet into a table.
+-[Turn the GDP sheet into a table](https://1drv.ms/x/s!AqxELen_d2qhj3l4fkeuaLix4qcX)
 
--Filter the table to display only the information for 2019
+-[Filter the table to display only the information for 2019](https://1drv.ms/x/s!AqxELen_d2qhj3l4fkeuaLix4qcX)
 
--Sort of the top 20 highest ranking counties
+-[Sort of the top 20 highest ranking counties](https://1drv.ms/x/s!AqxELen_d2qhj3l4fkeuaLix4qcX)
 
 -[Bar chart to display the 20 highest ranking countries from your sort](https://1drv.ms/x/s!AqxELen_d2qhj3b3PzGY7AgVtNDt)
 
