@@ -6,7 +6,7 @@ Data: Investigation of the nature and origins of national wealth
 
 ## Chart made with Tableau
 
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/129383432/229284958-c267814b-12fb-44cd-9e43-c84624ab891a.png">
+![](https://github.com/GustavoBraido/Tableau-DataVisualisation/blob/main/TableauDashboard.png?raw=true)
 
 ### [Data Source](https://justit831.sharepoint.com/:x:/s/DataAnalyticsProgramme-NewStandards/EVK1dsCfWvZMpvJzG9QaQk8B1nxx7hYR0KtGfbzJauf94g?e=CR1LFE)
 
