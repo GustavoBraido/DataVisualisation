@@ -1,4 +1,4 @@
-# DataVisualisation
+# Tableau - Data Visualisation
 
 ### Aim: Visual report of The Wealth of Nations
 
