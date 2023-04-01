@@ -26,7 +26,7 @@ Data: Investigation of the nature and origins of national wealth
 
 -Sort of the top 20 highest ranking counties
 
--Bar chart to display the 20 highest ranking countries from your sort
+-[Bar chart to display the 20 highest ranking countries from your sort](https://1drv.ms/x/s!AqxELen_d2qhj3b3PzGY7AgVtNDt)
 
 ### Tableau
 
