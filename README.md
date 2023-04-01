@@ -23,4 +23,27 @@ https://justit831.sharepoint.com/:x:/s/DataAnalyticsP rogramme- NewStandards/EVK
 
 -Created a visual report that show the data in the form of charts and maps
 
--Outline what policies need to be adhered to when working with data
+### Cleaned Data using **Excel**
+
+-Turn the GDP sheet into a table.
+
+-Filter the table to display only the information for 2019
+
+-Sort of the top 20 highest ranking counties
+
+-Bar chart to display the 20 highest ranking countries from your sort
+
+### Tableau
+
+-Imported Data
+
+-Set relationships between them
+
+-Check data types
+
+-Build the charts with colour blind friendly palettes in Tableau
+
+
+
+
+
